@@ -1,0 +1,30 @@
+{
+  "status": 1,
+  "message": "Success",
+  "data": [
+    {
+      "title": "Explore the World",
+      "subtitle": "Discover new places and experiences around the globe",
+      "image": "https://example.com/images/image.jpg",
+      "location": "Bali, Indonesia",
+    },
+    {
+      "title": "Find Your Perfect Stay",
+      "subtitle": "Book unique accommodations from local hosts",
+      "image": "https://example.com/images/image.jpg",
+      "location": "Paris, France",
+    },
+    {
+      "title": "Travel with Confidence",
+      "subtitle": "Enjoy peace of mind with flexible booking options",
+      "image": "https://example.com/images/image.jpg",
+      "location": "Tokyo, Japan",
+    }
+    {
+      "title": "Travel with Confidence",
+      "subtitle": "Enjoy peace of mind with flexible booking options",
+      "image": "https://example.com/images/image.jpg",
+      "location": "Tokyo, Japan",
+    }
+  ]
+}
